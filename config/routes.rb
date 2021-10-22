@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  resources :dashboard
+  resources :impresses
 end
